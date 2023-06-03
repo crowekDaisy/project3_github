@@ -6,7 +6,7 @@ Include the date you created this project and README file.
 ### Explore Bikeshare Data in R
 Replace the Project Title
 
-### Description
+### This project explores Bikeshare Data in R
 Describe what your project is about and what it does
 
 ### Files used
