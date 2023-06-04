@@ -10,7 +10,7 @@ library(ggplot2)
 ggplot (data=chi,aes(x=Gender))+
 geom_bar(color='red',fill='gray70')+
 geom_text(stat='count', aes(label=..count..),vjust=-1)+
-ggtitle('Counts of Each Gender in Chicago Bikeshare')+
+ggtitle('Counts by Gender in the Chicago Bikeshare')+
 labs(y = "Count",x = "Gender")
 
 
