@@ -9,7 +9,7 @@ Replace the Project Title
 ### This project explores Bikeshare Data in R using data from Chicago, New York City, and Washington
 Describe what your project is about and what it does
 
-### Files used
+### Files used: chicago.csv, washington.csv, new_york_city.csv
 Include the files used
 
 ### Credits
