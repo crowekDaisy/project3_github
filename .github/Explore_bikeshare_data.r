@@ -34,7 +34,7 @@ head(chi)
 ggplot (data=chi,aes(x=Trip.Duration/60))+
 geom_histogram(binwidth=1)+
 xlim(0,60)+
-ggtitle('Histogram:Trip Duration for Chicago Bikeshare')+
+ggtitle('Histogram:Trip Duration for the Chicago Bikeshare')+
 labs(x = "Trip Duration: Minutes",y="Frequency")
 
 
