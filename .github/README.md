@@ -6,7 +6,7 @@ Include the date you created this project and README file.
 ### Explore Bikeshare Data in R
 Replace the Project Title
 
-### This project explores Bikeshare Data in R
+### This project explores Bikeshare Data in R using data from Chicago, New York City, and Washington
 Describe what your project is about and what it does
 
 ### Files used
