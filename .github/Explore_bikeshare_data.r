@@ -24,7 +24,7 @@ ggplot(aes(x=Start.Station),data=subset(chi, End.Station=="Streeter Dr & Grand A
 geom_bar(fill='gray70')+
 coord_flip()+
 geom_text(stat='count', aes(label=..count..),hjust=-.1)+
-ggtitle('Starting Stations w/ Trips to Streeter Dr & Grand Ave')+
+ggtitle('Starting Stations with Trips to Streeter Dr & Grand Ave')+
 labs(y = "Count",x = "Starting Station")
 
 chi = read.csv('chicago.csv')
